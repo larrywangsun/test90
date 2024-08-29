@@ -1,0 +1,16 @@
+{
+  "apiID": "package_d7a97a__c__function_aadgwbbjzh2cu",
+  "apiName": "func1",
+  "label": {
+    "zh_CN": "func1",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
